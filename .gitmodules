@@ -1,0 +1,27 @@
+[submodule "CIN"]
+	path = CIN
+	url = https://github.com/LeeHwaKyoung/CIN
+[submodule "SwEngineering_Rep"]
+	path = SwEngineering_Rep
+	url = https://github.com/ParkChaerin129/SwEngineering_Rep
+[submodule "SoftwareEngineering_Project"]
+	path = SoftwareEngineering_Project
+	url = https://github.com/hyunmin0317/SoftwareEngineering_Project
+[submodule "main"]
+	path = main
+	url = https://github.com/smu-sw-engineering/main
+[submodule "JKSC"]
+	path = JKSC
+	url = https://github.com/seoseongmin/JKSC
+[submodule "MISO"]
+	path = MISO
+	url = https://github.com/SaraelJ/MISO.git
+[submodule "SMU_SE_5"]
+	path = SMU_SE_5
+	url = https://github.com/kky0426/SMU_SE_5
+[submodule "Campingbnb"]
+	path = Campingbnb
+	url = https://github.com/myunbongs/Campingbnb
+[submodule "SE_Project"]
+	path = SE_Project
+	url = https://github.com/elfoong/SE_Project

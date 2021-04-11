@@ -26,4 +26,24 @@
 
 조별 저장소 링크
 ---
-`TODO`
+1. https://github.com/LeeHwaKyoung/CIN
+
+2. https://github.com/ParkChaerin129/SwEngineering_Rep
+
+3. https://github.com/hyunmin0317/SoftwareEngineering_Project
+
+4. https://github.com/smu-sw-engineering/main
+
+5. https://github.com/kky0426/SMU_SE_5
+
+6. https://github.com/seoseongmin/JKSC
+
+7. https://github.com/SaraelJ/MISO.git
+
+8. https://github.com/myunbongs/Campingbnb
+
+9. https://github.com/elfoong/SE_Project
+
+
+
+
